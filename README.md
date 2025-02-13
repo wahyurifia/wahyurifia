@@ -1,6 +1,6 @@
 ### Hi there, I'm Wahyu Rifia Rizki - say Way👋
 
-## I'm a Son, Full-Stack Developer, and Student!
+## I'm a Son, Front-End Developer, and Student!
 
 - 🎓 Student at State University of Pamulang
 - 🔭 I’m currently working on a Backend project!
